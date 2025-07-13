@@ -175,7 +175,6 @@ SentiForm.init({
 
 ## 🔗 لینک‌های مرتبط / Links
 - [مخزن گیتهاب / GitHub Repository](https://github.com/masoudhadadan/sentiform-js)
-- [نمونه زنده / Live Demo](https://masoudhadadan.github.io/sentiform-js/demo.html)
 - [مستندات کامل / Full Documentation](https://github.com/masoudhadadan/sentiform-js/wiki)
 
 ## 📬 ارتباط با توسعه‌دهنده / Contact
